@@ -4,7 +4,7 @@
 
 ![RTG Simulation Screenshot](https://github.com/aseemyonov054/rtg-simulation/tree/main/static/rtg-sim.png?raw=true)
 
-## 🚀 Overview
+## Overview
 
 This project simulates the operation of an RTG crane within a container stack. It allows to:
 
@@ -13,9 +13,7 @@ This project simulates the operation of an RTG crane within a container stack. I
 * Test and compare various container stacking strategies
 * Visualize crane operations with 3D animation
 
-## ▶️ Getting Started
-
-### Run the project
+## Run the project
 
 ```bash
 npx vite
@@ -23,19 +21,19 @@ npx vite
 
 Then open your browser at the provided local address.
 
-## 🧠 Use Cases
+## Use Cases
 
 * Container terminal performance analysis
 * Operational optimization of RTG cranes
 * Simulation-based decision support for yard planning
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 * JavaScript / TypeScript
 * Vite
 * 3D rendering (WebGL / Three.js or similar, if applicable)
 
-## 📊 Key Focus
+## Key Focus
 
 The simulation helps evaluate:
 
@@ -43,6 +41,6 @@ The simulation helps evaluate:
 * Crane efficiency
 * Effects of stacking density on operations
 
-## 📄 License
+## License
 
 MIT
