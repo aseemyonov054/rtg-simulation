@@ -2,7 +2,7 @@
 
 > A 3D simulation model of a Rubber Tyred Gantry (RTG) crane operating in a container yard, designed to analyze productivity and evaluate stacking strategies.
 
-![RTG Simulation Screenshot](https://github.com/aseemyonov054/rtg-simulation/tree/main/static/rtg-sim.png?raw=true)
+![RTG Simulation Screenshot](static/rtg-sim.png)
 
 ## Overview
 
